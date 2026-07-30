@@ -149,12 +149,12 @@ Interactive dashboard for data visualization and insights.
   <img src="https://img.shields.io/badge/LinkedIn-Sangamesh%20Hoolimath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:sangameshirayyahoolimath.132608@marwadiuniversity.ac.in">
-  <img src="https://img.shields.io/badge/University_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sangameshhoolimath@gail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/sangameshirayyahoolimath" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-sangameshirayyahoolimath-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-sangameshhoolimath-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
