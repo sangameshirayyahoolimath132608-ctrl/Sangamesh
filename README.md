@@ -149,7 +149,7 @@ Interactive dashboard for data visualization and insights.
   <img src="https://img.shields.io/badge/LinkedIn-Sangamesh%20Hoolimath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:sangameshhoolimath@gail.com">
+<a href="mailto:sangameshhoolimath@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
