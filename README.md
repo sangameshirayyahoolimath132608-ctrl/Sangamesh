@@ -141,6 +141,7 @@ Interactive dashboard for data visualization and insights.
 
 ---
 
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -156,7 +157,6 @@ Interactive dashboard for data visualization and insights.
     <img src="https://img.shields.io/badge/GitHub-sangameshirayyahoolimath-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 # 💡 Quote
 
 > *"Artificial Intelligence is not about replacing humans; it's about amplifying human potential."*
