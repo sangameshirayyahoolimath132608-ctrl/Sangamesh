@@ -144,21 +144,18 @@ Interactive dashboard for data visualization and insights.
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sangamesh-hoolimath-707b89373">
+    <img src="https://img.shields.io/badge/LinkedIn-Sangamesh%20Hoolimath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/sangamesh-hoolimath-707b89373" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sangamesh%20Hoolimath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:sangameshhoolimath@gmail.com?subject=Hello%20Sangamesh&body=Hi%20Sangamesh,">
+    <img src="https://img.shields.io/badge/Gmail-sangameshhoolimath%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:sangameshhoolimath@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/sangameshirayyahoolimath" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-sangameshhoolimath-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/sangameshirayyahoolimath">
+    <img src="https://img.shields.io/badge/GitHub-sangameshirayyahoolimath-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
----
 
 # 💡 Quote
 
