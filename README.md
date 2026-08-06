@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer+Aspiring+%F0%9F%A4%96;Computer+Science+(AI)+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 </div>
